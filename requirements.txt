@@ -1,0 +1,2 @@
+# n8n-docgen uses only the Python standard library (Python 3.8+).
+# Nothing to install.
